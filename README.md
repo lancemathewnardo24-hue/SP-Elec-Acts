@@ -3,7 +3,8 @@ https://tinyurl.com/pyexercises1
 
 ---
 
-5 activities:
+4 activities:
+>[Open Activities](Activities.md)
 
 [1st](01VIP.py)
 
