@@ -7,6 +7,8 @@ If the user types "done", stop the loop and print the final list alphabetically.
 If they type a name already in the list, tell them "They're already on the list!" and don't add it again.
 Bonus: If the list reaches 5 names, print "The party is full!" and exit.
 
+>[1st](01VIP.py)
+
 ---
 
 ## 2. The Logic Bouncer
@@ -17,6 +19,8 @@ If they are 18–20, they can enter but "Cannot buy drinks."
 If they are 21 or older, check for the membership.
 If they have a card, print "Welcome, Gold Member!"
 If not, print "Standard entry granted."
+
+>[2nd](02LogicBouncer.py)
 
 ---
 
